@@ -1,2 +1,2 @@
-# Gangnam-Style-Music-Demo
-Gangnam style with music
+# Art Demo
+AR Art
